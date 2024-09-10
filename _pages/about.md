@@ -25,14 +25,10 @@ I hold a Ph.D. in Agribusiness from W.P. Carey School of Business at Arizona Sta
 - Health Economics
 - Agribusiness
 
-## Selected Publications
-1. Snyder S.∗, Ji X., Weng W., Fang D., et al. (2024). *Forever Chemicals and Challenges to Drinking Water Systems.* Choices. [Read more](https://www.choicesmagazine.org/choices-magazine/submitted-articles/forever-chemicals-and-challenges-to-drinking-water-systems)
-2. Grunert K., Seo H., Fang D., et al. (2024). *Does Sustainability Information Trick Your Sensory? The Case of Bird-Friendly Coffee.* Food Quality and Preference. [DOI](https://doi.org/10.1016/j.foodqual.2024.105124)
-
-For a comprehensive list of my publications, please visit my [Google Scholar](https://scholar.google.com) profile.
+Please visit my [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=Qq5DoMsAAAAJ&hl=en) profile for a comprehensive list of my publications.
 
 ## CV
-You can view my full CV [here](path_to_your_cv.pdf).
+You can view my full CV [here](files/Di Fang_cv.pdf).
 
 ---
 
