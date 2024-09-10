@@ -21,13 +21,13 @@ repository               : "https://fangdi2009.github.io/mypage/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : di-fang.png
+  avatar           : "di-fang.png"
   name             : "Di Fang, PhD"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Gainesville"
   employer         : "University of Florida"
-  uri              : # URL
+  uri              : https://fred.ifas.ufl.edu/about/directory/di-fang/
   email            : "difang@ufl.edu" 
 
   # Academic websites
