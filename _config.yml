@@ -12,7 +12,7 @@ title                    : "Welcome to my page!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://difang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fangdi2009.github.io/mypage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://fangdi2009.github.io/mypage/"
 
