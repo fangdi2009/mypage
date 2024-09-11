@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Seminars and Conferences"
-    url:  _talks/seminars.md    
+    url:  /talks/    
 
   - title: "Teaching"
-    URL: 
+    URL: /teaching/
     
   #- title: "Portfolio"
     #url: /portfolio/
