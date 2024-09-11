@@ -1,4 +1,8 @@
-## Invited Seminars
+---
+title: "Invited Seminars"
+layout: page
+permalink: /talks/
+---
 
 | Year  | Institution/Organization                                         | Event Type/Details                       |
 |-------|------------------------------------------------------------------|------------------------------------------|
