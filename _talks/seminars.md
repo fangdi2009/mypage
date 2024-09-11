@@ -4,22 +4,69 @@ layout: page
 permalink: /talks/
 ---
 
-| Year  | Institution/Organization                                         | Event Type/Details                       |
-|-------|------------------------------------------------------------------|------------------------------------------|
-| 2025  | Penn State University                                             | Scheduled                                |
-| 2025  | Lafayette College                                                 | Scheduled                                |
-| 2024  | Tufts University                                                  | October 2024                             |
-| 2024  | University of Minnesota, Department of Applied Economics          | September 2024                           |
-| 2024  | Washington State University                                       | Virtual, March 2024                      |
-| 2023  | Peking University, China                                          | November 2023                            |
-| 2023  | Virginia Tech                                                     | September 2023                           |
-| 2023  | NBER Summer Institute (Personnel Economics)                       | July 2023                                |
-| 2023  | Online Agricultural and Resource Economics Seminar (OARES)        | April 2023                               |
-| 2023  | University of Guelph, Agricultural Economics Department           | February 2023                            |
-| 2023  | University of Florida, Online Applied Micro Economics Seminar     | January 2023                             |
-| 2023  | Texas A&M University, Agricultural Economics Department           | January 2023                             |
-| 2020  | University of Idaho, Agricultural Economics Department            | November 2020, Virtual                   |
-| 2019  | Arizona State University, Agribusiness Department                 | March 2019                               |
-| 2018  | University of Pretoria, South Africa                              | July 2018                                |
-| 2018  | Toulouse School of Economics, France                              | June 2018                                |
-| 2017  | Jinan University, Guangdong, China                                | June 2017                                |
+---
+title: "Invited Seminars"
+layout: page
+permalink: /seminars/
+---
+
+# Invited Seminars
+
+## 2025
+- **Penn State University**  
+  _Scheduled_
+
+- **Lafayette College**  
+  _Scheduled_
+
+## 2024
+- **Tufts University**  
+  _October 2024_
+
+- **University of Minnesota**, Department of Applied Economics  
+  _September 2024_
+
+- **Washington State University**  
+  _Virtual, March 2024_
+
+## 2023
+- **Peking University**, China  
+  _November 2023_
+
+- **Virginia Tech**  
+  _September 2023_
+
+- **NBER Summer Institute (Personnel Economics)**  
+  _July 2023_
+
+- **Online Agricultural and Resource Economics Seminar (OARES)**  
+  _April 2023_
+
+- **University of Guelph**, Agricultural Economics Department  
+  _February 2023_
+
+- **University of Florida**, Online Applied Micro Economics Seminar  
+  _January 2023_
+
+- **Texas A&M University**, Agricultural Economics Department  
+  _January 2023_
+
+## 2020
+- **University of Idaho**, Agricultural Economics Department  
+  _November 2020, Virtual_
+
+## 2019
+- **Arizona State University**, Agribusiness Department  
+  _March 2019_
+
+## 2018
+- **University of Pretoria**, South Africa  
+  _July 2018_
+
+- **Toulouse School of Economics**, France  
+  _June 2018_
+
+## 2017
+- **Jinan University**, Guangdong, China  
+  _June 2017_
+
