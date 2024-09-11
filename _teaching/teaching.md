@@ -1,30 +1,20 @@
 ---
-title: "Teaching"
-layout: page
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
-### University of Florida
-- **AEB 6933: Topics in Health Economics** (PhD Level)  
-  _Taught in the fall semester every other year_
 
-- **AEB 4343: International Agribusiness Marketing** (Undergraduate)  
-  _Taught in the spring semester_
+This is a description of a teaching experience. You can use markdown like any other post.
 
-- **AEB 6675: International Agribusiness Marketing** (Master’s Level, Online)  
-  _Taught in the spring semester_
+Heading 1
+======
 
-### University of Arkansas
-- **AGEC 5613: Econometrics I** (Master’s Level)  
-  _Taught in the spring semester, 2017–2022_
+Heading 2
+======
 
-- **AGEC 5603: Food Economics and Health** (Master’s Level)  
-  _Taught in the spring semester, 2017–2022_
-
-- **AGEC 4603: Food Economics and Health** (Undergraduate Level)  
-  _Taught in the spring semester, 2017–2022_
-
-- **AGEC 1103: Principles of Agricultural Microeconomics** (Undergraduate Level)  
-  _Taught in the spring semester, 2016_
-
-### Arizona State University
-- **BUA 381: Small Business Accounting and Finance** (Undergraduate Level)  
-  _Taught in Spring 2013 and Fall 2014_
+Heading 3
+======
