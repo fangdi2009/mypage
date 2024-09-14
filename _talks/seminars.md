@@ -1,6 +1,6 @@
 ---
 title: "Invited Seminars"
-layout: page
+layout: archive
 permalink: /talks/
 ---
 
