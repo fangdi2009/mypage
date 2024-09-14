@@ -1,6 +1,6 @@
 ---
 title: "Teaching Experience"
-layout: page
+layout: archive
 permalink: /teaching/
 ---
 
