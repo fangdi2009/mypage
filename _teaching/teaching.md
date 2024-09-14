@@ -1,11 +1,8 @@
 ---
-title: "Teaching Experience"
+title: ""
 layout: archive
 permalink: /teaching/
 ---
-
-# Teaching Experience
-
 ---
 
 ### Topics in Health Economics
