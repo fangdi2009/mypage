@@ -1,6 +1,6 @@
 ---
-title: "UF Bobstick Golf Course"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Beautiful Golf Courses"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/golf1.png'>"
+#collection: portfolio
 ---
 
