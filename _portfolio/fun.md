@@ -6,6 +6,6 @@ permalink: /portfolio/
 
 
 ### Golf
-![My Image](/images/golf1.jpg) 
+[My Image](/images/golf1.jpg) 
 
 
