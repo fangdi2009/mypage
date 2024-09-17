@@ -16,7 +16,7 @@ elective admissions. These findings suggest that in an emergency context, where 
 critical decisions under considerable pressure, the coordination costs of diversity in specialized skills are
 large enough to outweigh any beneficial complementarities. Counterfactual policy simulations suggest
 significant efficiency gains from reallocating certain doctors across regular workdays.'
-date: 2024-04
+date: 2024-04-01
 #venue: 'GitHub Journal of Bugs'
 paperurl: 'https://drive.google.com/file/d/1aIheBVNq5laExAqGZBofiKH9ta711aig/view'
 citation: 'with Danyelle Branco, Bladimir Carrilo and Wilman Iglesias'
