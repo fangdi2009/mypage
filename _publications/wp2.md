@@ -1,7 +1,9 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Expertise Overlap and Team Productivity: Evidence from the Hospital Industry"
 collection: publications
-type: "manuscripts"
-permalink: /talks/2012-03-01-talk-1
-date: 2012-03-01
+category: manuscripts
+permalink: 'https://drive.google.com/file/d/1aIheBVNq5laExAqGZBofiKH9ta711aig/view'
+excerpt: 'with Danyelle Branco, Bladimir Carrilo and Wilman Iglesias'
+paperurl: 'https://drive.google.com/file/d/1aIheBVNq5laExAqGZBofiKH9ta711aig/view'
+citation: 'Branco, D., Carrilo, B., Fang, D.,& Iglesias, W. (n.d.). Expertise overlap and team productivity: Evidence from the hospital industry. Working Paper.'
 ---
