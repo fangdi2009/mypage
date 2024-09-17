@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "working papers"
+title: ""
 permalink: /publications/
 ---
 
