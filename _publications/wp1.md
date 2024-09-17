@@ -6,7 +6,7 @@ category: manuscripts
 excerpt: 'with Danyelle Branco, Bladimir Carrillo and Wilman Iglesias'
 #date: 2009-10-01
 #venue: 'work in progress'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: 'https://drive.google.com/file/d/1aIheBVNq5laExAqGZBofiKH9ta711aig/view'
+paperurl: 'https://drive.google.com/file/d/1aIheBVNq5laExAqGZBofiKH9ta711aig/view'
 #citation: ''
 ---
