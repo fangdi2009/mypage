@@ -1,5 +1,5 @@
 ---
 title: "dogs"
-excerpt: " <br/><img src='/mypage/images/dog1.jpg'>"
+excerpt: " <br/><img src='/mypage/images/dogs1.jpg'>"
 collection: portfolio
 ---
