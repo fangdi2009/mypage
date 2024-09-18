@@ -1,12 +1,14 @@
+
+
 ---
-title: "Paper Title Number 1"
+title: "Expertise Overlap and Team Productivity: Evidence from the Hospital Industry"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2024-09-01-expertise-overlap-team-productivity
+excerpt: 'This paper investigates expertise overlap and team productivity in the hospital industry, co-authored by Danyelle Branco, Bladimir Carrilo, and Wilman Iglesias.'
+date: 2024-09-01
+venue: 'Working Paper'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://drive.google.com/file/d/1aIheBVNq5laExAqGZBofiKH9ta711aig/view'
+citation: 'Branco, D., Carrilo, B., Fang, D., & Iglesias, W. (n.d.). "Expertise Overlap and Team Productivity: Evidence from the Hospital Industry." Working Paper.'
 ---
