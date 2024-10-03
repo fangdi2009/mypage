@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /files/Di Fang_cv.pdf
+    URL: "https://www.dropbox.com/scl/fi/64mqvauoblv12og1iqs7m/cv.pdf?rlkey=zmfkjzxvmnjemm4iqz7fz48cy&st=sn56k8xd&dl=0"
     
   - title: "Research"
     url: /publications/
